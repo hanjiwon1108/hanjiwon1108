@@ -1,4 +1,4 @@
 ## Hello, World!
 
 I am hanjiwon
-I am GOD OF HAN
+I am god of han
