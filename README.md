@@ -1,3 +1,3 @@
 ### Hello, I am Jiwon Han
-[Instagram](https://www.instagram.com/han_jiwon08/)
+https://img.shields.io/badge/{Instagram}-{black}?style={스타일}&logo={instagram}&logoColor={pink}
 - - -
