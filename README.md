@@ -1,3 +1,4 @@
 ## Hello, World!
 
-I am han ji won.
+I am hanjiwon
+I am GOD OF HAN
