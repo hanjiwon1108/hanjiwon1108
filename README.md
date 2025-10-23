@@ -10,7 +10,7 @@
 ## Frontend
 사용자 경험을 중시하며, 효율적인 UI/UX를 만드는 것을 좋아합니다.
 
-- React / Next.js  
+- React / Next.js / TanStack Query
 - TypeScript / JavaScript  
 - Tailwind CSS / Styled-components  
 - Zustand / Recoil 
