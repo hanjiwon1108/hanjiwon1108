@@ -12,16 +12,16 @@
 
 - React / Next.js / TanStack Query
 - TypeScript / JavaScript  
-- Tailwind CSS / Styled-components  
-- Zustand / Recoil 
+- Tailwind CSS / Styled-components 
+- Zustand / Recoil
 
 ---
 
 ## Backend
 빠르고 안정적인 서버를 구축하기 위해 노력합니다.
 
-- Java / Spring Boot  
-- Python / FastAPI  
+- Java / Spring & Spring Boot 
+- Python / FastAPI 
 
 ---
 
